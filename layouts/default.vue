@@ -1,0 +1,9 @@
+<template>
+    <div>
+        <LazyTheHeader/>
+        <slot></slot>
+        <TheFooter/>
+        <TheTest/>
+        <BaseFooButton/>
+    </div>
+</template>
